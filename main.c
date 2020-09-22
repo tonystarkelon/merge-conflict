@@ -9,7 +9,9 @@ Initial Security()
 {
  //Sample Code
 }
-
+Feature2() {
+//feature2 added
+}
 
 
 }
